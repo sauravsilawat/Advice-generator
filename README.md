@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-without-any-external-libraries-tMR5BsUuQY](https://www.frontendmentor.io/solutions/advice-generator-without-any-external-libraries-tMR5BsUuQY)
 - Live Site URL: [https://advice-generator-saurav.netlify.app/](https://advice-generator-saurav.netlify.app/)
 
 ### Built with
